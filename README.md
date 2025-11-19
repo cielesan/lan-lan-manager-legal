@@ -1,2 +1,2 @@
-# lan-lan-manager-privacy-policy
-Privacy Policy for Discord bot Lan Lan Manager
+# lan-lan-manager-legal
+Privacy Policy and Terms of Service for Discord bot Lan Lan manager
